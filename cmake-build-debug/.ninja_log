@@ -1,0 +1,8 @@
+# ninja log v6
+2	2654	1736538428530503306	CMakeFiles/untitled.dir/main.cpp.o	6e347e0f48957f41
+186	189	1736538191811479267	/home/dake/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/CXXModules.json	f4eda074d8983972
+186	189	1736538191811479267	CMakeFiles/untitled.dir/main.cpp.o.modmap	f4eda074d8983972
+186	189	1736538191811479267	CMakeFiles/untitled.dir/CXX.dd	f4eda074d8983972
+2654	2786	1736538431182469966	untitled	3390200dc579304
+2	186	1736538191627481580	CMakeFiles/untitled.dir/main.cpp.o.ddi	322a87074bf27808
+1	74	1736539941606182577	build.ninja	59b21fe831c87c34
